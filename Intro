@@ -1,0 +1,15 @@
+
+source-https://developer.android.com/courses/android-basics-compose/unit-3
+
+Unit 1: Your first Android app --> Learn programming basics and create your first Android app.
+  Introduction to Kotlin
+  Set up Android Studio
+  Build a basic layout
+Unit 2: Building app UI --> Continue learning the fundamentals of Kotlin, and start building more interactive apps.
+  Kotlin fundamentals
+  Add a button to an app
+  Interact with UI and state
+Unit 3: Display lists and use Material Design --> Build apps that display a list of data and learn how to make your apps more beautiful with Material Design.
+  More Kotlin fundamentals
+  Build a scrollable list
+  
